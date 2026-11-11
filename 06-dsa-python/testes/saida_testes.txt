@@ -1,0 +1,12 @@
+test_csv_persistencia (test_main.TestListaServicos.test_csv_persistencia) ... ok
+test_insercao_e_busca_por_id (test_main.TestListaServicos.test_insercao_e_busca_por_id) ... ok
+test_insertion_sort_por_titulo (test_main.TestListaServicos.test_insertion_sort_por_titulo) ... ok
+test_lista_vazia (test_main.TestListaServicos.test_lista_vazia) ... ok
+test_pesquisa_por_titulo_ou_categoria_sem_case (test_main.TestListaServicos.test_pesquisa_por_titulo_ou_categoria_sem_case) ... ok
+test_rejeita_id_duplicado_e_nao_positivo (test_main.TestListaServicos.test_rejeita_id_duplicado_e_nao_positivo) ... ok
+test_remocao_inicio_meio_fim_e_nao_encontrado (test_main.TestListaServicos.test_remocao_inicio_meio_fim_e_nao_encontrado) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.021s
+
+OK

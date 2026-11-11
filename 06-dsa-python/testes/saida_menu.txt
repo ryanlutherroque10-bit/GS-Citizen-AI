@@ -1,0 +1,29 @@
+5 serviço(s) carregado(s) de servicos.csv.
+
+=== CITIZEN ASSIST AI | CATÁLOGO DE SERVIÇOS ===
+1 Cadastrar | 2 Consultar por ID | 3 Pesquisar título/categoria
+4 Atualizar | 5 Excluir | 6 Listar | 7 Ordenar por título
+8 Análise | 0 Salvar e sair
+Opção: Opção inválida.
+
+=== CITIZEN ASSIST AI | CATÁLOGO DE SERVIÇOS ===
+1 Cadastrar | 2 Consultar por ID | 3 Pesquisar título/categoria
+4 Atualizar | 5 Excluir | 6 Listar | 7 Ordenar por título
+8 Análise | 0 Salvar e sair
+Opção: ID: Nenhum serviço encontrado para esse ID.
+
+=== CITIZEN ASSIST AI | CATÁLOGO DE SERVIÇOS ===
+1 Cadastrar | 2 Consultar por ID | 3 Pesquisar título/categoria
+4 Atualizar | 5 Excluir | 6 Listar | 7 Ordenar por título
+8 Análise | 0 Salvar e sair
+Opção: 3 - Atualização do CadÚnico
+4 - Consumo consciente
+2 - Documentos para atendimento
+5 - Segunda via da conta
+1 - Tarifa Social de Energia
+
+=== CITIZEN ASSIST AI | CATÁLOGO DE SERVIÇOS ===
+1 Cadastrar | 2 Consultar por ID | 3 Pesquisar título/categoria
+4 Atualizar | 5 Excluir | 6 Listar | 7 Ordenar por título
+8 Análise | 0 Salvar e sair
+Opção: Dados salvos. Até logo!
