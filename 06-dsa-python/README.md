@@ -1,6 +1,6 @@
 # Citizen Assist AI — Catálogo de serviços (DSA)
 
-**Integrantes:** [NOME COMPLETO] — RM [RM]  
+**Integrantes:** Ryan Luther Roque e João Guilherme Figueiredo — RM 572993 e 572697
 **Turma:** 1CC-FEV · **Linguagem:** Python
 
 ## Recorte
